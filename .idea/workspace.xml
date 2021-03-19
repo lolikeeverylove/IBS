@@ -30,6 +30,7 @@
       <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/Stability.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/Stability.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/cases/GetMainPage.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/cases/GetMainPage.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/scenarios/CommonScenario.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/scenarios/CommonScenario.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,7 @@
     <option name="done" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -63,7 +64,7 @@
       <recent name="D:\рабочий стол\IdeaProjects\gatling-template.g8\src\main\untitled4\src\com\company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task8">
+  <component name="RunManager" selected="Application.Task9">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="untitled4" />
@@ -100,13 +101,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Task9" />
+      <module name="untitled4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Task7" />
       <item itemvalue="Application.Task8" />
+      <item itemvalue="Application.Task9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Task8" />
         <item itemvalue="Application.Task7" />
       </list>
@@ -133,23 +149,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1616118992975">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1616121795077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616118992975" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1616118992975">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616121795077" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1616121795077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616118992975" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1616118992975">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616121795077" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1616121795077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616118992975" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1616118992975">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616121795077" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1616121795077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616118992975" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616121795077" />
   </component>
 </project>

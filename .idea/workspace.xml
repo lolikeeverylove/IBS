@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="56c87829-e94b-41dc-85be-084c6b916482" name="Default Changelist" comment="" />
+    <list default="true" id="56c87829-e94b-41dc-85be-084c6b916482" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/project/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/project/build.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/$name__word$.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/$name__word$.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/Debug.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/Debug.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/GatlingRunner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/GatlingRunner.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/MaxPerformance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/MaxPerformance.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/Stability.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/Stability.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/cases/GetMainPage.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/cases/GetMainPage.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/scenarios/CommonScenario.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/scenarios/CommonScenario.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,15 +39,31 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1pxH7Pzz3BdypR5vwi9r8quHClY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\рабочий стол\IdeaProjects\gatling-template.g8\src\main\untitled4" />
+      <recent name="D:\рабочий стол\IdeaProjects\gatling-template.g8\src\main\untitled4\src\com\company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Task7">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="untitled4" />
@@ -29,6 +74,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Task7" />
+      <module name="untitled4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Task7" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task7" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,5 +107,16 @@
       <updated>1616117653113</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

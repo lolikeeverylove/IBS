@@ -20,16 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56c87829-e94b-41dc-85be-084c6b916482" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../untitled1/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../g8/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../g8/project/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/project/build.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/$name__word$.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/$name__word$.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/Debug.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/Debug.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/GatlingRunner.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/GatlingRunner.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/MaxPerformance.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/MaxPerformance.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/Stability.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/Stability.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/cases/GetMainPage.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/cases/GetMainPage.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../g8/src/test/scala/$package$/$name__word$/scenarios/CommonScenario.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../g8/src/test/scala/hey/kejk/scenarios/CommonScenario.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,30 +43,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.company" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\рабочий стол\IdeaProjects\gatling-template.g8\src\main\untitled4" />
       <recent name="D:\рабочий стол\IdeaProjects\gatling-template.g8\src\main\untitled4\src\com\company" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Task9">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="untitled4" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Task7" />
+  <component name="RunManager" selected="Application.FinalTask4">
+    <configuration name="FinalTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.FinalTask1" />
       <module name="untitled4" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Task8" />
+    <configuration name="FinalTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.FinalTask2" />
       <module name="untitled4" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +83,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Task9" />
+    <configuration name="FinalTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.FinalTask3" />
+      <module name="untitled4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalTask4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.FinalTask4" />
+      <module name="untitled4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Task14" />
       <module name="untitled4" />
       <extension name="coverage">
         <pattern>
@@ -115,16 +123,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Task7" />
-      <item itemvalue="Application.Task8" />
-      <item itemvalue="Application.Task9" />
+      <item itemvalue="Application.Task14" />
+      <item itemvalue="Application.FinalTask1" />
+      <item itemvalue="Application.FinalTask2" />
+      <item itemvalue="Application.FinalTask3" />
+      <item itemvalue="Application.FinalTask4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task9" />
-        <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.FinalTask4" />
+        <item itemvalue="Application.FinalTask3" />
+        <item itemvalue="Application.FinalTask2" />
+        <item itemvalue="Application.FinalTask1" />
+        <item itemvalue="Application.Task14" />
       </list>
     </recent_temporary>
   </component>
@@ -150,23 +161,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1616121795077">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616121795077" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1616121795077">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616121795077" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1616121795077">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616121795077" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1616121795077">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616121795077" />
   </component>
 </project>

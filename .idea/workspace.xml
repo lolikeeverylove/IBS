@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56c87829-e94b-41dc-85be-084c6b916482" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FinalTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FinalTask1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinalTask4">
+  <component name="RunManager" selected="Application.FinalTask1">
     <configuration name="FinalTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.FinalTask1" />
       <module name="untitled4" />
@@ -131,10 +131,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinalTask1" />
         <item itemvalue="Application.FinalTask4" />
         <item itemvalue="Application.FinalTask3" />
         <item itemvalue="Application.FinalTask2" />
-        <item itemvalue="Application.FinalTask1" />
         <item itemvalue="Application.Task14" />
       </list>
     </recent_temporary>

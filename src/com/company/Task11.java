@@ -11,6 +11,6 @@ public class Task11 {
         System.out.print("Введите любое число: ");
         int x = scan.nextInt();
         scan.close();
-        System.out.println(x < Integer.parseInt(n)? Double.valueOf(x) : n );
+        System.out.println(x < Integer.parseInt(n)? (double) x : Double.parseDouble(n) );
     }
 }

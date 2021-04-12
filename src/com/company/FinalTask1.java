@@ -11,7 +11,7 @@ public class FinalTask1 {
         System.out.print("Кол-во рублей:  ");
         double x = scan.nextDouble();
         scan.close();
-        System.out.printf("%.2f%n",x*y);
+        System.out.printf("%.2f%n",x/y);
 
     }
 }

@@ -9,8 +9,9 @@ public class Task14 {
         int [] array = new int[5];
         System.out.println("Заполните массив из 15 элементов рандомными значениями в диапазоне от -20 до 20");
         for (int i = 0; i < array.length; i++) {
-            System.out.print(i+1 +" элемент = " );
-            array[i] = scan.nextInt();
+//            System.out.print(i+1 +" элемент = " );
+//            array[i] = scan.nextInt();
+            array[i] = -20 + (int) ( Math.random() * 40 );
         }
         scan.close();
 

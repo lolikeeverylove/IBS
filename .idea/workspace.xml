@@ -20,7 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56c87829-e94b-41dc-85be-084c6b916482" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/FinalTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/FinalTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Task10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Task13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Task13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Task14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Task14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +61,7 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinalTask1">
+  <component name="RunManager" selected="Application.Task8">
     <configuration name="FinalTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.FinalTask1" />
       <module name="untitled4" />
@@ -70,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.FinalTask2" />
+    <configuration name="Task10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Task10" />
       <module name="untitled4" />
       <extension name="coverage">
         <pattern>
@@ -83,21 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.FinalTask3" />
-      <module name="untitled4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinalTask4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.FinalTask4" />
+    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Task13" />
       <module name="untitled4" />
       <extension name="coverage">
         <pattern>
@@ -122,19 +114,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Task8" />
+      <module name="untitled4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Task14" />
       <item itemvalue="Application.FinalTask1" />
-      <item itemvalue="Application.FinalTask2" />
-      <item itemvalue="Application.FinalTask3" />
-      <item itemvalue="Application.FinalTask4" />
+      <item itemvalue="Application.Task14" />
+      <item itemvalue="Application.Task10" />
+      <item itemvalue="Application.Task13" />
+      <item itemvalue="Application.Task8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task8" />
+        <item itemvalue="Application.Task13" />
+        <item itemvalue="Application.Task10" />
         <item itemvalue="Application.FinalTask1" />
-        <item itemvalue="Application.FinalTask4" />
-        <item itemvalue="Application.FinalTask3" />
-        <item itemvalue="Application.FinalTask2" />
         <item itemvalue="Application.Task14" />
       </list>
     </recent_temporary>

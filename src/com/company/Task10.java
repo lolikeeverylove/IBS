@@ -17,9 +17,10 @@ public class Task10 {
             }
         }
         scan.close();
-        for (int k = 0; k < a; k++) {
+        for (int k = 0; k < b; k++) {
             System.out.println(k + " элемент = " + mas[0][k]*3);
         }
+
     }
 }
 
